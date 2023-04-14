@@ -1,0 +1,143 @@
+[[autoconf]]
+arch = "aarch64"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+os = "macos"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.aarch64-apple-darwin.tar.gz"
+[[autoconf]]
+arch = "aarch64"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "glibc"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.aarch64-linux-gnu.tar.gz"
+[[autoconf]]
+arch = "aarch64"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "musl"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.aarch64-linux-musl.tar.gz"
+[[autoconf]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "glibc"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.armv6l-linux-gnueabihf.tar.gz"
+[[autoconf]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "musl"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.armv6l-linux-musleabihf.tar.gz"
+[[autoconf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "glibc"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.armv7l-linux-gnueabihf.tar.gz"
+[[autoconf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "musl"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.armv7l-linux-musleabihf.tar.gz"
+[[autoconf]]
+arch = "i686"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "glibc"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.i686-linux-gnu.tar.gz"
+[[autoconf]]
+arch = "i686"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "musl"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.i686-linux-musl.tar.gz"
+[[autoconf]]
+arch = "i686"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+os = "windows"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.i686-w64-mingw32.tar.gz"
+[[autoconf]]
+arch = "powerpc64le"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "glibc"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.powerpc64le-linux-gnu.tar.gz"
+[[autoconf]]
+arch = "x86_64"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+os = "macos"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.x86_64-apple-darwin.tar.gz"
+[[autoconf]]
+arch = "x86_64"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "glibc"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.x86_64-linux-gnu.tar.gz"
+[[autoconf]]
+arch = "x86_64"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+libc = "musl"
+os = "linux"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.x86_64-linux-musl.tar.gz"
+[[autoconf]]
+arch = "x86_64"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+os = "freebsd"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.x86_64-unknown-freebsd.tar.gz"
+[[autoconf]]
+arch = "x86_64"
+git-tree-sha1 = "07c362dbe04c7b713987fa2b86a13e0277140164"
+os = "windows"
+
+    [[autoconf.download]]
+    sha256 = "26a5e8454a766c0d9da75ad11fb8370c849a503ff24156facf2e4de86e18bb2e"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+0/autoconf.v2.71.0.x86_64-w64-mingw32.tar.gz"
