@@ -1,6 +1,6 @@
 [autoconf]
-git-tree-sha1 = "08402465a4cf435220287ad129de7a60bfba3924"
+git-tree-sha1 = "97d0d2e504c93d2c09670d6258b38df1d407c8a7"
 
     [[autoconf.download]]
-    sha256 = "16975beda94795b3d8a04137be17cb217f0c88200b7b17bfcc56d11c93eb41ff"
-    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.71.0+2/autoconf.v2.71.0.any.tar.gz"
+    sha256 = "eb3267d0e8eb7717ef822d36d56282c2f4311838586d8a92e5e61d423cd2d370"
+    url = "https://github.com/JuliaBinaryWrappers/autoconf_jll.jl/releases/download/autoconf-v2.72.0+0/autoconf.v2.72.0.any.tar.gz"
